@@ -9,10 +9,10 @@ At ZIORWeb.Dev, we are committed to:
 - Supporting the **open-source community** with free and premium tools.
 
 ## 📌 Featured Projects
-### 🔹 [filepond-wp-integration](https://github.com/ZIORWebDev/filepond-wp-integration)
+### 🔹 [Easy DragDrop File Uploader](https://github.com/ZIORWebDev/easy-file-uploader)
 A **WordPress plugin** that seamlessly integrates **FilePond** for beautiful and efficient file uploads.
 
-### 🔹 filepond-wp-integration-pro *(Private Repository)*
+### 🔹 Easy DragDrop File Uploader Pro *(Private Repository)*
 The **premium version** with advanced features and extended functionality.
 
 ## ⚡ Contributions & Support
